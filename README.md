@@ -25,9 +25,9 @@ This task focuses on understanding how passwords are stored, attacked, and prote
 ---
 
 ## 📂 Deliverables
-- Task4_Password_Security_Checklist.pdf
+- Password_Security_Analysis_Report_Task4.pdf
 - Task4_Password_Security_Detailed_Explanation.pdf
-- Screenshots (if any)
+- Screenshots 
 
 ---
 
